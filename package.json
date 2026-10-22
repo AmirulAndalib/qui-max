@@ -37,7 +37,7 @@
     "vue": "^3.2.33"
   },
   "devDependencies": {
-    "@babel/core": "^7.17.10",
+    "@babel/core": "^8.0.7",
     "@commitlint/cli": "^16.2.4",
     "@commitlint/config-conventional": "^16.2.4",
     "@qvant/prettier-config": "^0.1.0",
@@ -71,7 +71,7 @@
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-vue": "^8.7.1",
-    "happy-dom": "^3.1.1",
+    "happy-dom": "^21.0.4",
     "husky": "^7.0.4",
     "lint-staged": "^13.0.3",
     "prettier": "^2.6.2",
@@ -86,9 +86,9 @@
     "style-loader": "^3.3.1",
     "stylelint": "^14.8.2",
     "typescript": "^4.6.4",
-    "vite": "^2.9.13",
+    "vite": "^6.4.4",
     "vite-plugin-dts": "^1.1.1",
-    "vitest": "^0.10.4",
+    "vitest": "^5.0.5",
     "vue": "^3.2.31",
     "vue-loader": "^17.0.0"
   },
